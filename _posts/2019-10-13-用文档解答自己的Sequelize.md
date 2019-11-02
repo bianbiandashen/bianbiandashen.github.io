@@ -313,7 +313,7 @@ User.findAndCountAll({
 
 
 
-### Model usage
+#### Model usage
 ```
 class Pub extends Model {}
 Pub.init({
@@ -357,7 +357,7 @@ Pub.init({
 }
 ```
 
-###重点要讲的是Transactions。和 lock
+####重点要讲的是Transactions。和 lock
 
 分析代码
 ```
