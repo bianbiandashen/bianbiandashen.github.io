@@ -71,9 +71,6 @@ cross-env TS_NODE_TYPE_CHECK=false TS_NODE_TRANSPILE_ONLY=true DEBUG=midway* NOD
 ```
 
 
-其实很简单 node底下哎有个 meta meta底下有个 count 然后edges 顺序排列
-
-然后edge里面有一项 叫 to_node  整个图就出来了
 
 下面是使用相同的项目的对比效果。
 第一次执行（无缓存）
