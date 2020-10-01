@@ -1,12 +1,12 @@
 # BY Blog
 
-> 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
+> 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/bianbiandashen/bianbiandashen.github.io) 。
 > 
-> 更为详细的教程[《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c)
+> 更为详细的教程[《利用 GitHub Pages 快速搭建个人博客》](https://github.com/bianbiandashen/bianbiandashen.github.io)
 > 
-### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
+### [我的博客在这里 &rarr;](https://github.com/bianbiandashen/bianbiandashen.github.io)
 
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
+![](https://github.com/bianbiandashen/bianbiandashen.github.io)
 
 
 ## 使用
